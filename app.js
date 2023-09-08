@@ -18,7 +18,7 @@ function submitForm(event) {
   )
   .then(res => {
     if (res.ok) {
-      alert("Hello, you've successfully registered to our website");
+      alert("Thank you for your feedback");
     } else {
       // Handle error if needed
     }
